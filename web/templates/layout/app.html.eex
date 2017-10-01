@@ -16,7 +16,7 @@
       <header class="header">
         <nav role="navigation">
           <ul class="nav nav-pills pull-right">
-            <li><h3><a href="http://www.phoenixframework.org/docs">Chat Creation Guide</a></h3></li>
+            <li><h3><a href="https://gist.github.com/yaycode/58ff8213ea54d7272ae89d0b9165be16">Chat Creation Guide</a></h3></li>
           </ul>
         </nav>
         <span class="logo"></span>
