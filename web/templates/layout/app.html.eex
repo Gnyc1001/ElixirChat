@@ -16,7 +16,7 @@
       <header class="header">
         <nav role="navigation">
           <ul class="nav nav-pills pull-right">
-            <li><a href="http://www.phoenixframework.org/docs">Get Started</a></li>
+            <li><h3><a href="http://www.phoenixframework.org/docs">Chat Creation Guide</a></h3></li>
           </ul>
         </nav>
         <span class="logo"></span>
@@ -24,7 +24,7 @@
 
       <p class="alert alert-info" role="alert"><%= get_flash(@conn, :info) %></p>
       <p class="alert alert-danger" role="alert"><%= get_flash(@conn, :error) %></p>
-
+    <h2>Chat Now!</h2>
       <main role="main">
         <%= render @view_module, @view_template, assigns %>
       </main>

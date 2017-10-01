@@ -1,1 +1,10 @@
 /* This file is for your main application css. */
+
+.logo { 
+    background-image: url("http://ndvc1f6iog-flywheel.netdna-ssl.com/wp-content/uploads/2013/11/Elixir-Header.jpg"); 
+}
+
+body { 
+    background-image: url("https://udemy-images.udemy.com/course/750x422/745082_a37d_4.jpg");
+    background-size: cover;
+}
